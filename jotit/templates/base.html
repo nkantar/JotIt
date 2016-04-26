@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+    <head>
+        <title>{{ settings.site_name }}</title>
+    </head>
+    <body>
+        <h1><a href='/'>{{ settings.site_name }}</a></h1>
+        {% if session.username %}
+            <a href='{{ url_for("logout") }}'>logout</a>
+        {% endif %}
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+                {% for message in messages %}
+                    {{ message }}
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+        {% block content %}{% endblock %}
+        <hr />
+    </body>
+</html>
+

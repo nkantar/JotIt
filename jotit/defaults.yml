@@ -1,0 +1,4 @@
+---
+site_name: 'JotIt'
+login_required: False
+secret_key: 'youreallyshouldchangethis'  # Please change this value in your config.yml ASAP

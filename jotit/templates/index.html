@@ -1,0 +1,14 @@
+{% extends 'base.html'%}
+
+{% block content %}
+
+<h1>Index</h1>
+
+<ol>
+    {% for file in files %}
+        <li><a href='{{ file }}'>{{ file }}</a></li>
+    {% endfor %}
+</ol>
+
+{% endblock %}
+

@@ -1,0 +1,4 @@
+/* AUTHOR */
+    Nikola Kantar
+    http://nkantar.com
+    nik@nkantar.com
