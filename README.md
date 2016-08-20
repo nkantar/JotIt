@@ -10,13 +10,13 @@ I started keeping a journal at work, writing down thoughts and things learned on
 
 Well, you start by installing **JotIt** via `pip`:
 
-```
+```shell
 pip install jotit
 ```
 
 Then you make a file called `myawesomejournal.py` and place the following in it:
 
-```
+```python
 from jotit import JotIt
 jotit = JotIt().new_jotit()
 jotit.run()
@@ -24,7 +24,7 @@ jotit.run()
 
 Then you make a file called `config.yml` and populate it with what you need. Here's a sample configuration:
 
-```
+```yaml
 ---
 site_name: 'My Awesome Journal'
 login_required: True
