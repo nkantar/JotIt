@@ -59,6 +59,13 @@ I know, I know, I said this is supposed to be a minimal CMS, but some other func
 - **Example site** - Lead by example, they say...
 - **Custom functionality** - It'd be cool if you could write your own plugins, special routes, and whatever else you need, right? Your own [Cloud To Butt Plus](https://chrome.google.com/webstore/detail/cloud-to-butt-plus/apmlngnhgbnjpajelfkmabhkfapgnoai 'Cloud To Butt Plus') coming in 3..2..1...
 
+## I need help!
+
+- IRC: [irc://chat.freenode.net:6667/jotit](https://webchat.freenode.net/?channels=%23jotit&uio=MTE9NzIaa '#jotit on freenode')
+<!-- Commented out until it starts working.
+- Mailing list: [mailto:jotit@librelist.com](jotit@librelist.com 'jotit@librelist.com')
+-->
+
 ## I wanna' help!
 
 Well, uhh, for now you can [create isues](https://github.com/nkantar/JotIt/issues/new 'New Issue'), submit pull requests, or [get in touch](mailto:nik@nkantar.com 'Email me') and go from there. :)
