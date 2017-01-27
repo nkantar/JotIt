@@ -62,9 +62,6 @@ I know, I know, I said this is supposed to be a minimal CMS, but some other func
 ## I need help!
 
 - IRC: [irc://chat.freenode.net:6667/jotit](https://webchat.freenode.net/?channels=%23jotit&uio=MTE9NzIaa '#jotit on freenode')
-<!-- Commented out until it starts working.
-- Mailing list: [mailto:jotit@librelist.com](jotit@librelist.com 'jotit@librelist.com')
--->
 
 ## I wanna' help!
 
